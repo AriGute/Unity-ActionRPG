@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: eec5af6cdac50764e8c3b635847d8d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4465821375459056261
+    second: basicHumanSkin_0
+  - first:
+      213: -658174665323806171
+    second: basicHumanSkin_1
+  - first:
+      213: -892112939514009562
+    second: basicHumanSkin_2
+  - first:
+      213: -7539611392955620255
+    second: basicHumanSkin_3
+  - first:
+      213: -937018836903556703
+    second: basicHumanSkin_4
+  - first:
+      213: 5174146364196406117
+    second: basicHumanSkin_5
+  - first:
+      213: -8987266855849263043
+    second: basicHumanSkin_6
+  - first:
+      213: 620445767619697089
+    second: basicHumanSkin_7
+  - first:
+      213: 6206989887582347164
+    second: basicHumanSkin_8
+  - first:
+      213: -4496990831933869348
+    second: basicHumanSkin_9
+  - first:
+      213: 158556192463950678
+    second: basicHumanSkin_10
+  - first:
+      213: -6618685661770442291
+    second: basicHumanSkin_11
+  - first:
+      213: 2348427224739092440
+    second: basicHumanSkin 1_0
+  - first:
+      213: -5251629389380588512
+    second: basicHumanSkin 1_1
+  - first:
+      213: 1899051709110975088
+    second: basicHumanSkin 1_2
+  - first:
+      213: -2821074541494278469
+    second: basicHumanSkin 1_3
+  - first:
+      213: 3855883506802709568
+    second: basicHumanSkin 1_4
+  - first:
+      213: -7585298817942652637
+    second: basicHumanSkin 1_5
+  - first:
+      213: 3324717966845700207
+    second: basicHumanSkin 1_6
+  - first:
+      213: 6194465178497637343
+    second: basicHumanSkin 1_7
+  - first:
+      213: -2947529024325280022
+    second: basicHumanSkin 1_8
+  - first:
+      213: -7672603396812298606
+    second: basicHumanSkin 1_9
+  - first:
+      213: 1456483680755901787
+    second: basicHumanSkin 1_10
+  - first:
+      213: 6841948259532187067
+    second: basicHumanSkin 1_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basicHumanSkin 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc072e840ea844f9b5ad4ef10a19b4
+      internalID: 2348427224739092440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 204
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fe41d08415034e8b2e15e569557d1
+      internalID: -5251629389380588512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b7882a309f1f4685bd610ecb1a288
+      internalID: 1899051709110975088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c77ed70f0eb1642b2dcc397d61bb3d
+      internalID: -2821074541494278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154e252908d66e48aeffc61402fe733
+      internalID: 3855883506802709568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fbbf6141e83e41a79fd15b0aa147b
+      internalID: -7585298817942652637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8aec5b1b47c34388997e39c18f90f
+      internalID: 3324717966845700207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 84
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76e18940edf1746960732bebe5496e
+      internalID: 6194465178497637343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2380e2c7bd7fa44f9a05485145cf744
+      internalID: -2947529024325280022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00fda4271aab4246ba777c9f933d85d
+      internalID: -7672603396812298606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 52
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ade0f4fd2eef41a49057d9664f797
+      internalID: 1456483680755901787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicHumanSkin 1_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a24c3019003e644bb9716aeca8f823
+      internalID: 6841948259532187067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3bd9107b2a8f22f4c9026caab987c3aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

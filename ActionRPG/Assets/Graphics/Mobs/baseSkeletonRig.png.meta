@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: b0c21e087190fb94aa4526419af327ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2348427224739092440
+    second: basicHumanSkin 1_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basicHumanSkin 1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 208
+        width: 53
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5059253, y: 0.47897443}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: pants
+        position: {x: 96.02588, y: -101.69548, z: 0}
+        rotation: {x: 0, y: 0, z: 0.7071069, w: 0.7071067}
+        length: 27.896507
+        parentId: -1
+      - name: stomach
+        position: {x: 27.896511, y: -0.0000041250087, z: 0}
+        rotation: {x: 0, y: 0, z: -0, w: 1}
+        length: 26.900188
+        parentId: 0
+      - name: torso
+        position: {x: 26.900192, y: 0.0000015135206, z: 0}
+        rotation: {x: 0, y: 0, z: 0.006750408, w: 0.9999773}
+        length: 36.86658
+        parentId: 1
+      - name: head
+        position: {x: 45.839214, y: 0.37745133, z: 0}
+        rotation: {x: 0, y: 0, z: -0.013506295, w: 0.9999088}
+        length: 36.866573
+        parentId: 2
+      - name: right_top_arm
+        position: {x: 32.027176, y: -26.338692, z: 0}
+        rotation: {x: 0, y: -0, z: -0.9690499, w: 0.24686518}
+        length: 45.724228
+        parentId: 2
+      - name: mid_arm
+        position: {x: 53.512287, y: -0.37988457, z: 0}
+        rotation: {x: 0, y: 0, z: -0.10713852, w: 0.9942441}
+        length: 33.65603
+        parentId: 4
+      - name: left_top_arm
+        position: {x: 27.90697, y: 37.486137, z: 0}
+        rotation: {x: 0, y: -0, z: 0.9271473, w: 0.37469706}
+        length: 45.813683
+        parentId: 2
+      - name: mid_arm
+        position: {x: 52.963615, y: 3.3041322, z: 0}
+        rotation: {x: 0, y: 0, z: 0.50289315, w: 0.86434865}
+        length: 36.258
+        parentId: 6
+      - name: left_top_leg
+        position: {x: 2.988924, y: 19.427898, z: 0}
+        rotation: {x: 0, y: -0, z: 0.9957736, w: 0.091842234}
+        length: 43.576145
+        parentId: 0
+      - name: bottom_leg
+        position: {x: 50.831234, y: 1.8564801, z: 0}
+        rotation: {x: 0, y: 0, z: 0.096451, w: 0.9953377}
+        length: 53.802658
+        parentId: 8
+      - name: right_leg
+        position: {x: 1.9926034, y: -17.435307, z: 0}
+        rotation: {x: 0, y: -0, z: -0.99892473, w: 0.046361588}
+        length: 43.02599
+        parentId: 0
+      - name: bottom_leg
+        position: {x: 50.062412, y: 0.346027, z: 0}
+        rotation: {x: 0, y: 0, z: -0.050742216, w: 0.9987118}
+        length: 56.79145
+        parentId: 10
+      - name: mount
+        position: {x: 36.25799, y: -0.000008355998, z: 0}
+        rotation: {x: 0, y: 0, z: -0.00000008992428, w: 1}
+        length: 12.746011
+        parentId: 7
+      - name: mount
+        position: {x: 33.656033, y: 0.00001313916, z: 0}
+        rotation: {x: 0, y: 0, z: 0.000000008684935, w: 1}
+        length: 12.198233
+        parentId: 5
+      spriteID: 182ab38c1ade30b46bd80e5802ac5490
+      internalID: 2348427224739092440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3bd9107b2a8f22f4c9026caab987c3aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
